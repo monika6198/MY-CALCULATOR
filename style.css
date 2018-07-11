@@ -1,0 +1,55 @@
+body{
+	background-color: palegoldenrod;
+}
+.main-body{
+	margin-left: 500px;
+    margin-top: 150px;
+    background-color: #211414;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    height: 400px;
+    width: 300px;
+}
+.display{
+	padding-top: 20px;
+}
+.display input{
+	height: 40px;
+	width: 280px;
+	background-color: #bccd95;
+	text-align: right;
+	font-size: 20px;
+}
+#faltu-buttons{
+	height: 40px;
+	width: 40px;
+	background-color: grey;
+	color: black;
+	
+}
+#operation-buttons{
+	height: 40px;
+	width: 40px;
+	background-color: pink;
+	color: black;
+	
+}
+#num-buttons{
+	height: 40px;
+	width: 40px;
+	background-color: black;
+	color: white;
+	
+}
+#equal-button{
+	height: 40px;
+	width: 40px;
+	background-color: yellow;
+	color: black;
+}
+p{
+	line-height: 30px;
+}
+p input{
+	margin: 5px;
+}
